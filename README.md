@@ -1,6 +1,7 @@
 This repository documents my personal learning journey as I master Git and GitHub, starting from the basics of version control to more advanced workflows used in real-world software development.
 
-🚀 What You'll Find Here
+**🚀 What You'll Find Here**
+<br>
 ✅ Commonly used Git commands explained with examples
 
 ✅ Real scenarios for branching, merging, and resolving conflicts
